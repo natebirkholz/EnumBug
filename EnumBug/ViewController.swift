@@ -8,6 +8,13 @@
 
 import UIKit
 
+// If this enum is in this file, I am UNable to filter an array of TestStructs via enum case
+// if it is in the same file as it is filtered, I can filter by the enum case
+
+//public enum TestEnum {
+//    case test1, test2, test3
+//}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {

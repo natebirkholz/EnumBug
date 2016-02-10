@@ -15,6 +15,7 @@
 		3133F7DE1C6BBEBE009E3B9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3133F7DC1C6BBEBE009E3B9E /* LaunchScreen.storyboard */; };
 		3133F7E91C6BBEBF009E3B9E /* EnumBugTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3133F7E81C6BBEBF009E3B9E /* EnumBugTests.swift */; };
 		3133F7F41C6BBEBF009E3B9E /* EnumBugUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3133F7F31C6BBEBF009E3B9E /* EnumBugUITests.swift */; };
+		3133F8021C6BBED6009E3B9E /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3133F8011C6BBED6009E3B9E /* TestClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3133F7EF1C6BBEBF009E3B9E /* EnumBugUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EnumBugUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3133F7F31C6BBEBF009E3B9E /* EnumBugUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumBugUITests.swift; sourceTree = "<group>"; };
 		3133F7F51C6BBEBF009E3B9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3133F8011C6BBED6009E3B9E /* TestClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				3133F7D01C6BBEBE009E3B9E /* AppDelegate.swift */,
 				3133F7D21C6BBEBE009E3B9E /* ViewController.swift */,
+				3133F8011C6BBED6009E3B9E /* TestClass.swift */,
 				3133F7D41C6BBEBE009E3B9E /* Main.storyboard */,
 				3133F7DA1C6BBEBE009E3B9E /* Assets.xcassets */,
 				3133F7DC1C6BBEBE009E3B9E /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3133F8021C6BBED6009E3B9E /* TestClass.swift in Sources */,
 				3133F7D91C6BBEBE009E3B9E /* EnumBug.xcdatamodeld in Sources */,
 				3133F7D31C6BBEBE009E3B9E /* ViewController.swift in Sources */,
 				3133F7D11C6BBEBE009E3B9E /* AppDelegate.swift in Sources */,
